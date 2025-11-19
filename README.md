@@ -1,2 +1,5 @@
-# Kevin-Alejandro-Escobedo-Escobar
-soy un alumno que esta interesado en aprender
+# primer-repositorio
+primer repositorio de practica
+este es el primer repositorio de practica 
+Kevin Alejandro Escobedo Escobar 
+3rob de programacion
